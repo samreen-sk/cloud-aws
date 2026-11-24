@@ -1,6 +1,0 @@
-{
-  "application": "CloudFileManager",
-  "version": "1.0",
-  "environment": "development",
-  "storage": "Amazon S3"
-}
